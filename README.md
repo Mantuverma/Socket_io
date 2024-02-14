@@ -1,1 +1,4 @@
 # Socket.io
+<p>
+Socket.IO is a library that enhances the real-time, bi-directional communication capabilities of web applications. It enables developers to easily add real-time features such as chat, notifications, and multiplayer games to their websites and mobile applications. Socket.IO provides a simple API, making it easy for developers to work with both clients and servers, and it supports a wide range of programming languages, including JavaScript, Python, Ruby, and PHP. Socket.IO is a popular choice among developer communities, and it is widely used in popular web applications such as Twitter, GitHub, and the Stack Overflow developer network.
+</p>
